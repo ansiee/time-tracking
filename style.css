@@ -9,6 +9,8 @@
 body{
   background-color: hsl(226, 43%, 10%);
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card-jeremy{
@@ -17,7 +19,6 @@ body{
   height: 33rem;
   border-radius: 1rem;
   margin-top: 200px;
-  margin-left: 200px;
 }
 
 .jeremy-info{
